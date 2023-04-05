@@ -1,0 +1,15 @@
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\bin\Debug\net6.0\customsubstring.exe
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\bin\Debug\net6.0\customsubstring.deps.json
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\bin\Debug\net6.0\customsubstring.runtimeconfig.json
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\bin\Debug\net6.0\customsubstring.dll
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\bin\Debug\net6.0\customsubstring.pdb
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\customsubstring.csproj.AssemblyReference.cache
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\customsubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\customsubstring.AssemblyInfoInputs.cache
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\customsubstring.AssemblyInfo.cs
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\customsubstring.csproj.CoreCompileInputs.cache
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\customsubstring.dll
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\refint\customsubstring.dll
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\customsubstring.pdb
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\customsubstring.genruntimeconfig.cache
+C:\Users\Xasay Musayev\Desktop\customsubstring\customsubstring\obj\Debug\net6.0\ref\customsubstring.dll
